@@ -1,2 +1,2 @@
 # 404-page
-[link to my github page](https://sarabrzn.github.io/practice/)
+[link to 404 page](https://sarabrzn.github.io/404-page/)
